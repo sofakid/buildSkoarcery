@@ -1,0 +1,9 @@
+[submodule "p/Editoar"]
+	path = p/Editoar
+	url = https://github.com/sofakid/Editoar.git
+[submodule "p/Skoarcery"]
+	path = p/Skoarcery
+	url = https://github.com/sofakid/Skoar3.git
+[submodule "p/JUCE"]
+	path = p/JUCE
+	url = https://github.com/sofakid/JUCE.git
